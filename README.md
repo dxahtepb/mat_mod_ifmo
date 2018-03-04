@@ -1,3 +1,3 @@
-## Mathematical and simulation modeling
+# Mathematical and simulation modeling
 
-# Chausov Andrey M3305
+## Chausov Andrey M3305
