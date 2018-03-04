@@ -1,1 +1,3 @@
-# mat_mod_ifmo
+## Mathematical and simulation modeling
+
+# Chausov Andrey M3305
